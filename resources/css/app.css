@@ -1,0 +1,8 @@
+h1 {
+    color: blue;           /* Cor do texto */
+    font-size: 36px;      /* Tamanho da fonte */
+    text-align: center;    /* Centraliza o texto */
+    font-family: Arial, sans-serif; /* Fonte */
+    margin-top: 20px;     /* Espaço acima */
+    margin-bottom: 20px;  /* Espaço abaixo */
+}
